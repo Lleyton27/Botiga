@@ -18,15 +18,15 @@ public class Productes {
         this.precio = precio;
         this.descripcion = descripcion;
     }
-      public String getnombre() {
+      public String nombre() {
         return nombre;
     }
 
-    public float getprecio() {
+    public float precio() {
         return precio;
     }
 
-    public String getdescripcion() {
+    public String descripcion() {
         return descripcion;
     }
 }
